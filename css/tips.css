@@ -5,6 +5,7 @@ html{
     box-sizing: inherit;
 }
 body{
+     width: 1280px;
     font-family: arial;
     font-size: 16px;
     background-color: #f8e1ba;
